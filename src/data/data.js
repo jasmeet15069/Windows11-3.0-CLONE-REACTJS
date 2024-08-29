@@ -81,16 +81,16 @@ export const githubRepos = [
 // Education Experience
 export const educationExperience = [
   {
-    key: 1,
+    key: 2,
     institution: "Angels Public Sr. Sec School",
     graduation: "May 2020",
     degree: "XII",
     type: "education",
   },
   {
-    key: 2,
+    key: 1,
     institution: "Dronacharya Group of Institutions, Greater Noida",
-    graduation: "Aug 2022",
+    graduation: "Aug 2024",
     degree: "B-Tech, Computer Science Engineering",
     type: "education",
   },

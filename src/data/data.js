@@ -25,7 +25,7 @@ const githubLink = "https://github.com/jasmeet15069";
 
 // Profile Description
 export const profileDescription = [
-  "Hello, I'm Mishan Poudel, an experienced front-end web developer specializing in crafting seamless and dynamic user experiences. With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, I bring innovative designs to life and ensure they perform flawlessly across all devices. Let's create exceptional web experiences together!",
+  "Hello, I'm Jasmeet Sethi, an experienced front-end web developer specializing in crafting seamless and dynamic user experiences. With expertise in HTML, CSS, JavaScript, and modern frameworks like React and Next.js, I bring innovative designs to life and ensure they perform flawlessly across all devices. Let's create exceptional web experiences together!",
 ];
 
 // Work Experience Template

@@ -98,7 +98,7 @@ const AboutMe = ({ page, handleDivClick, expandedDiv }) => {
                 alt="Profile"
               />
               <div>
-                <h1 className="text-5xl font-bold">About Me</h1>
+                <h1 className="text-5xl font-bold">About Me : </h1>
                 <p className="py-6">{profileDescription}</p>
               </div>
             </div>
